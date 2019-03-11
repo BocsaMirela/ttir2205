@@ -1,0 +1,11 @@
+1;Matematica;1
+1;Romana;1
+2;Matematica;5
+2;Romana;5
+3;Matematica;2
+3;Romana;2
+4;Romana;8
+5;Matematica;3
+5;Matematica;4
+5;Romana;3
+6;Matematica;10
