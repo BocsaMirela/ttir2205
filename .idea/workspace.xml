@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="241874c3-ae26-4d67-868e-c92ac9d46682" name="Default Changelist" comment="" />
+    <list default="true" id="241874c3-ae26-4d67-868e-c92ac9d46682" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ttir2205MV/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ttir2205MV/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ttir2205MV/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ttir2205MV/AppTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,34 +17,41 @@
     <session id="-1380877668">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.51" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="49" />
+          <entry key="JAVA/note" value="1" />
+          <entry key="java" value="51" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="49" />
+          <entry key="JAVA" value="51" />
           <entry key="PLAIN_TEXT" value="7" />
+          <entry key="UML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1104" />
+          <entry key="java" value="1745" />
           <entry key="txt" value="96" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1104" />
+          <entry key="JAVA" value="1745" />
           <entry key="PLAIN_TEXT" value="96" />
           <entry key="XML" value="1" />
         </counts>
@@ -50,15 +61,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/elevi.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/note.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -70,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/note/controller/NoteController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="32" column="56" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
+            <state relative-caret-position="476">
+              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,8 +93,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/NoteRepositoryMock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+            <state relative-caret-position="102">
+              <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,10 +102,28 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ttir2205MV/AppTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="515">
+              <caret line="46" column="56" lean-forward="true" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/note/utils/Constants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="71" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/EleviRepositoryMock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
+            <state relative-caret-position="204">
               <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
             </state>
           </provider>
@@ -112,20 +132,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/note/main/StartApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/NoteRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state relative-caret-position="1122">
+              <caret line="66" column="34" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -145,14 +153,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/ClasaRepositoryMock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="74" column="37" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
+            <state relative-caret-position="833">
+              <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#4978#5137#0" expanded="true" />
-                <element signature="e#5136#5137#0" expanded="true" />
-                <element signature="e#5214#5415#0" expanded="true" />
-                <element signature="e#5414#5415#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -205,6 +209,7 @@
         <option value="$PROJECT_DIR$/src/main/java/note/repository/ClasaRepositoryMock.java" />
         <option value="$PROJECT_DIR$/src/elevi.txt" />
         <option value="$PROJECT_DIR$/src/note.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/ttir2205MV/AppTest.java" />
       </list>
     </option>
   </component>
@@ -232,7 +237,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -346,13 +350,15 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="9&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552256851004" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553510784419" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -372,7 +378,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.AppTest">
     <configuration name="StartApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="note.main.StartApp" />
       <module name="Lab01" />
@@ -387,8 +393,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ttir2205MV.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ttir2205MV" />
+      <option name="MAIN_CLASS_NAME" value="ttir2205MV.AppTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StartApp" />
+      <item itemvalue="JUnit.AppTest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AppTest" />
         <item itemvalue="Application.StartApp" />
       </list>
     </recent_temporary>
@@ -404,17 +429,56 @@
       <option name="presentableId" value="Default" />
       <updated>1552239932063</updated>
       <workItem from="1552239935409" duration="12980000" />
-      <workItem from="1552304289226" duration="2681000" />
+      <workItem from="1552304289226" duration="4404000" />
+      <workItem from="1552399325423" duration="904000" />
+      <workItem from="1552477926886" duration="148000" />
+      <workItem from="1552987949949" duration="4862000" />
+      <workItem from="1553009102304" duration="343000" />
+      <workItem from="1553245735935" duration="4630000" />
+      <workItem from="1553510168928" duration="1199000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="AppTest - 2019.03.22 at 12h 44m 16s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest - 2019.03.22 at 12h 44m 24s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest - 2019.03.22 at 12h 48m 36s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest - 2019.03.22 at 12h 49m 12s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest - 2019.03.22 at 12h 50m 14s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest - 2019.03.22 at 12h 50m 29s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest - 2019.03.22 at 12h 56m 53s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest - 2019.03.25 at 12h 39m 56s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest - 2019.03.25 at 12h 40m 41s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest - 2019.03.25 at 12h 46m 20s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15661000" />
+    <option name="totallyTimeSpent" value="29470000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27609682" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -423,14 +487,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43698853" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30441898" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.6415712" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.22749591" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -471,20 +535,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/note/main.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/ttir2205MV/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/ClasaRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
           <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -492,16 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="23" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
-            <element signature="e#784#785#0" expanded="true" />
-            <element signature="e#822#823#0" expanded="true" />
-            <element signature="e#893#894#0" expanded="true" />
-            <element signature="e#920#921#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -526,85 +570,303 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/note/utils/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="71" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/NoteRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/EleviRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/note/errors/ClasaException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/note/controller/NoteController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="32" column="56" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/note/main/StartApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/EleviRepositoryMock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/NoteRepositoryMock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/ClasaRepositoryMock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="74" column="37" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4978#5137#0" expanded="true" />
-            <element signature="e#5136#5137#0" expanded="true" />
-            <element signature="e#5214#5415#0" expanded="true" />
-            <element signature="e#5414#5415#0" expanded="true" />
-          </folding>
+    <entry file="uml://JAVA/note">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>note</OriginalElement>
+          <nodes>
+            <node x="89.40600490196061" y="459.5">note.repository.EleviRepository</node>
+            <node x="1160.3218341503275" y="187.0">note.model.Medie</node>
+            <node x="840.625" y="913.0">note.controller.NoteController</node>
+            <node x="289.4060049019606" y="482.0">note.errors.ClasaException</node>
+            <node x="979.5665849673208" y="0.0">note.model.Elev</node>
+            <node x="10.5" y="703.0">note.repository.EleviRepositoryMock</node>
+            <node x="844.625" y="1323.0">note.main.StartApp</node>
+            <node x="725.4060049019605" y="459.5">note.repository.NoteRepository</node>
+            <node x="927.4060049019605" y="692.0">note.repository.ClasaRepositoryMock</node>
+            <node x="1639.1197508169932" y="187.0">note.model.Corigent</node>
+            <node x="1333.519750816993" y="437.5">note.repository.ClasaRepository</node>
+            <node x="617.5665849673208" y="187.5">note.model.Nota</node>
+            <node x="489.40600490196056" y="394.0">note.utils.Constants</node>
+            <node x="555.7393382352939" y="703.0">note.repository.NoteRepositoryMock</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="note.repository.EleviRepositoryMock" target="note.errors.ClasaException">
+              <point x="51.0" y="-59.5" />
+              <point x="163.5" y="662.0" />
+              <point x="311.7810049019606" y="662.0" />
+              <point x="-67.125" y="26.0" />
+            </edge>
+            <edge source="note.main.StartApp" target="note.model.Elev">
+              <point x="-74.22222222222217" y="-26.0" />
+              <point x="853.9027777777778" y="1303.0" />
+              <point x="0.0" y="1303.0" />
+              <point x="0.0" y="127.0" />
+              <point x="985.8582516339875" y="127.0" />
+              <point x="-69.20833333333326" y="48.5" />
+            </edge>
+            <edge source="note.repository.ClasaRepositoryMock" target="note.repository.ClasaRepository">
+              <point x="87.5" y="-70.5" />
+              <point x="1189.9060049019604" y="652.0" />
+              <point x="1421.019750816993" y="652.0" />
+              <point x="-87.5" y="70.5" />
+            </edge>
+            <edge source="note.controller.NoteController" target="note.model.Medie">
+              <point x="52.5" y="-170.0" />
+              <point x="1068.125" y="863.0" />
+              <point x="1287.9060049019604" y="863.0" />
+              <point x="1287.9060049019604" y="374.0" />
+              <point x="1235.8218341503275" y="374.0" />
+              <point x="0.0" y="48.5" />
+            </edge>
+            <edge source="note.repository.NoteRepository" target="note.model.Nota">
+              <point x="0.0" y="-48.5" />
+              <point x="815.9060049019605" y="344.0" />
+              <point x="706.7888071895429" y="344.0" />
+              <point x="16.22222222222217" y="48.0" />
+            </edge>
+            <edge source="note.repository.ClasaRepositoryMock" target="note.model.Corigent">
+              <point x="122.5" y="-70.5" />
+              <point x="1224.9060049019604" y="662.0" />
+              <point x="1694.019750816993" y="662.0" />
+              <point x="1694.019750816993" y="374.0" />
+              <point x="1684.4197508169932" y="374.0" />
+              <point x="-30.200000000000045" y="48.5" />
+            </edge>
+            <edge source="note.controller.NoteController" target="note.repository.ClasaRepositoryMock">
+              <point x="17.5" y="-170.0" />
+              <point x="1033.125" y="853.0" />
+              <point x="1102.4060049019604" y="853.0" />
+              <point x="0.0" y="70.5" />
+            </edge>
+            <edge source="note.repository.ClasaRepositoryMock" target="note.model.Nota">
+              <point x="-87.5" y="-70.5" />
+              <point x="1014.9060049019605" y="672.0" />
+              <point x="1038.5665849673208" y="672.0" />
+              <point x="1038.5665849673208" y="324.0" />
+              <point x="739.2332516339875" y="324.0" />
+              <point x="48.66666666666674" y="48.0" />
+            </edge>
+            <edge source="note.controller.NoteController" target="note.repository.NoteRepository">
+              <point x="-52.5" y="-170.0" />
+              <point x="963.125" y="863.0" />
+              <point x="861.1560049019605" y="863.0" />
+              <point x="45.25" y="48.5" />
+            </edge>
+            <edge source="note.repository.ClasaRepositoryMock" target="note.model.Medie">
+              <point x="17.5" y="-70.5" />
+              <point x="1119.9060049019604" y="662.0" />
+              <point x="1089.4218341503274" y="662.0" />
+              <point x="1089.4218341503274" y="364.0" />
+              <point x="1175.4218341503274" y="364.0" />
+              <point x="-60.39999999999998" y="48.5" />
+            </edge>
+            <edge source="note.model.Medie" target="note.model.Elev">
+              <point x="-37.75" y="-48.5" />
+              <point x="1198.0718341503275" y="157.0" />
+              <point x="1073.9415849673208" y="157.0" />
+              <point x="18.875" y="48.5" />
+            </edge>
+            <edge source="note.controller.NoteController" target="note.model.Corigent">
+              <point x="122.5" y="-170.0" />
+              <point x="1138.125" y="883.0" />
+              <point x="1716.019750816993" y="883.0" />
+              <point x="1716.019750816993" y="364.0" />
+              <point x="1744.8197508169933" y="364.0" />
+              <point x="30.200000000000045" y="48.5" />
+            </edge>
+            <edge source="note.main.StartApp" target="note.model.Corigent">
+              <point x="55.66666666666674" y="-26.0" />
+              <point x="983.7916666666667" y="1293.0" />
+              <point x="1727.019750816993" y="1293.0" />
+              <point x="1727.019750816993" y="374.0" />
+              <point x="1775.019750816993" y="374.0" />
+              <point x="60.39999999999998" y="48.5" />
+            </edge>
+            <edge source="note.main.StartApp" target="note.model.Nota">
+              <point x="-55.66666666666674" y="-26.0" />
+              <point x="872.4583333333333" y="1293.0" />
+              <point x="278.9060049019606" y="1293.0" />
+              <point x="278.9060049019606" y="364.0" />
+              <point x="625.6776960784318" y="364.0" />
+              <point x="-64.88888888888891" y="48.0" />
+            </edge>
+            <edge source="note.controller.NoteController" target="note.repository.ClasaRepository">
+              <point x="87.5" y="-170.0" />
+              <point x="1103.125" y="873.0" />
+              <point x="1596.019750816993" y="873.0" />
+              <point x="87.5" y="70.5" />
+            </edge>
+            <edge source="note.controller.NoteController" target="note.model.Nota">
+              <point x="-17.5" y="-170.0" />
+              <point x="998.125" y="853.0" />
+              <point x="916.9060049019605" y="853.0" />
+              <point x="916.9060049019605" y="334.0" />
+              <point x="723.0110294117651" y="334.0" />
+              <point x="32.44444444444434" y="48.0" />
+            </edge>
+            <edge source="note.repository.ClasaRepositoryMock" target="note.model.Elev">
+              <point x="-17.5" y="-70.5" />
+              <point x="1084.9060049019604" y="672.0" />
+              <point x="1078.4218341503274" y="672.0" />
+              <point x="1078.4218341503274" y="167.0" />
+              <point x="1061.3582516339875" y="167.0" />
+              <point x="6.2916666666667425" y="48.5" />
+            </edge>
+            <edge source="note.repository.EleviRepositoryMock" target="note.model.Elev">
+              <point x="-85.0" y="-59.5" />
+              <point x="27.5" y="672.0" />
+              <point x="31.625" y="672.0" />
+              <point x="31.625" y="137.0" />
+              <point x="998.4415849673208" y="137.0" />
+              <point x="-56.625" y="48.5" />
+            </edge>
+            <edge source="note.repository.NoteRepositoryMock" target="note.errors.ClasaException">
+              <point x="-89.16666666666674" y="-59.5" />
+              <point x="573.5726715686271" y="662.0" />
+              <point x="401.2810049019606" y="662.0" />
+              <point x="22.375" y="26.0" />
+            </edge>
+            <edge source="note.repository.NoteRepositoryMock" target="note.repository.NoteRepository">
+              <point x="89.16666666666674" y="-59.5" />
+              <point x="751.9060049019606" y="672.0" />
+              <point x="770.6560049019605" y="672.0" />
+              <point x="-45.25" y="48.5" />
+            </edge>
+            <edge source="note.repository.ClasaRepository" target="note.model.Corigent">
+              <point x="131.25" y="-70.5" />
+              <point x="1639.769750816993" y="374.0" />
+              <point x="1654.2197508169934" y="374.0" />
+              <point x="-60.4" y="48.5" />
+            </edge>
+            <edge source="note.repository.ClasaRepository" target="note.model.Nota">
+              <point x="-131.25" y="-70.5" />
+              <point x="1377.269750816993" y="314.0" />
+              <point x="755.4554738562097" y="314.0" />
+              <point x="64.88888888888891" y="48.0" />
+            </edge>
+            <edge source="note.repository.EleviRepositoryMock" target="note.repository.EleviRepository">
+              <point x="17.0" y="-59.5" />
+              <point x="129.5" y="672.0" />
+              <point x="134.1560049019606" y="672.0" />
+              <point x="-44.75" y="48.5" />
+            </edge>
+            <edge source="note.controller.NoteController" target="note.repository.NoteRepositoryMock">
+              <point x="-87.5" y="-170.0" />
+              <point x="928.125" y="873.0" />
+              <point x="662.7393382352939" y="873.0" />
+              <point x="0.0" y="59.5" />
+            </edge>
+            <edge source="note.controller.NoteController" target="note.repository.EleviRepositoryMock">
+              <point x="-157.5" y="-170.0" />
+              <point x="858.125" y="893.0" />
+              <point x="112.5" y="893.0" />
+              <point x="0.0" y="59.5" />
+            </edge>
+            <edge source="note.controller.NoteController" target="note.model.Elev">
+              <point x="157.5" y="-170.0" />
+              <point x="1173.125" y="893.0" />
+              <point x="1800.6197508169932" y="893.0" />
+              <point x="1800.6197508169932" y="127.0" />
+              <point x="1111.6915849673208" y="127.0" />
+              <point x="56.625" y="48.5" />
+            </edge>
+            <edge source="note.repository.ClasaRepositoryMock" target="note.errors.ClasaException">
+              <point x="-157.5" y="-70.5" />
+              <point x="944.9060049019605" y="652.0" />
+              <point x="446.0310049019606" y="652.0" />
+              <point x="67.125" y="26.0" />
+            </edge>
+            <edge source="note.repository.NoteRepositoryMock" target="note.utils.Constants">
+              <point x="-53.5" y="-59.5" />
+              <point x="609.2393382352939" y="672.0" />
+              <point x="585.9060049019606" y="672.0" />
+              <point x="0.0" y="114.0" />
+            </edge>
+            <edge source="note.repository.ClasaRepository" target="note.model.Elev">
+              <point x="43.75" y="-70.5" />
+              <point x="1552.269750816993" y="137.0" />
+              <point x="1099.1082516339875" y="137.0" />
+              <point x="44.04166666666674" y="48.5" />
+            </edge>
+            <edge source="note.repository.ClasaRepositoryMock" target="note.utils.Constants">
+              <point x="-122.5" y="-70.5" />
+              <point x="979.9060049019605" y="642.0" />
+              <point x="650.2393382352939" y="642.0" />
+              <point x="64.33333333333326" y="114.0" />
+            </edge>
+            <edge source="note.repository.EleviRepository" target="note.model.Elev">
+              <point x="0.0" y="-48.5" />
+              <point x="178.9060049019606" y="167.0" />
+              <point x="1036.1915849673208" y="167.0" />
+              <point x="-18.875" y="48.5" />
+            </edge>
+            <edge source="note.main.StartApp" target="note.errors.ClasaException">
+              <point x="-37.111111111111086" y="-26.0" />
+              <point x="891.0138888888889" y="1283.0" />
+              <point x="356.5310049019606" y="1283.0" />
+              <point x="-22.375" y="26.0" />
+            </edge>
+            <edge source="note.repository.ClasaRepository" target="note.model.Medie">
+              <point x="-43.75" y="-70.5" />
+              <point x="1464.769750816993" y="304.0" />
+              <point x="1296.2218341503276" y="304.0" />
+              <point x="60.39999999999998" y="48.5" />
+            </edge>
+            <edge source="note.repository.NoteRepositoryMock" target="note.model.Nota">
+              <point x="-17.833333333333258" y="-59.5" />
+              <point x="644.9060049019606" y="662.0" />
+              <point x="692.9060049019605" y="662.0" />
+              <point x="692.9060049019605" y="374.0" />
+              <point x="658.1221405228764" y="374.0" />
+              <point x="-32.44444444444434" y="48.0" />
+            </edge>
+            <edge source="note.controller.NoteController" target="note.repository.EleviRepository">
+              <point x="-122.5" y="-170.0" />
+              <point x="893.125" y="883.0" />
+              <point x="314.0197508169932" y="883.0" />
+              <point x="314.0197508169932" y="652.0" />
+              <point x="223.6560049019606" y="652.0" />
+              <point x="44.75" y="48.5" />
+            </edge>
+            <edge source="note.main.StartApp" target="note.model.Medie">
+              <point x="37.111111111111086" y="-26.0" />
+              <point x="965.2361111111111" y="1283.0" />
+              <point x="1323.019750816993" y="1283.0" />
+              <point x="1323.019750816993" y="364.0" />
+              <point x="1266.0218341503275" y="364.0" />
+              <point x="30.19999999999999" y="48.5" />
+            </edge>
+            <edge source="note.repository.EleviRepositoryMock" target="note.utils.Constants">
+              <point x="85.0" y="-59.5" />
+              <point x="197.5" y="672.0" />
+              <point x="521.5726715686274" y="672.0" />
+              <point x="-64.33333333333326" y="114.0" />
+            </edge>
+            <edge source="note.main.StartApp" target="note.controller.NoteController">
+              <point x="0.0" y="-26.0" />
+              <point x="-87.5" y="170.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-66.0" y="745.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
@@ -619,6 +881,81 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/controller/NoteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/errors/ClasaException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/EleviRepositoryMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/main/StartApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="34" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/EleviRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/ClasaRepositoryMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/NoteRepositoryMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/utils/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="71" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ttir2205MV/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="46" column="56" lean-forward="true" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
         </state>
       </provider>
     </entry>
