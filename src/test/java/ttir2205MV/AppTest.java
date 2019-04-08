@@ -134,12 +134,6 @@ public class AppTest
         }
     }
 
-    @Test
-    public void testCalculareMedieWBTValid3() {
-        ClasaRepositoryMock clasaRepositoryMock=new ClasaRepositoryMock();
-
-
-    }
 
 
 
