@@ -8,4 +8,3 @@
 5;Matematica;3
 5;Matematica;4
 5;Romana;3
-6;Matematica;10

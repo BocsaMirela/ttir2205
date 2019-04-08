@@ -48,40 +48,43 @@ public class ClasaRepositoryMock implements ClasaRepository{
 
     @Override
     public List<Medie> calculeazaMedii() throws ClasaException{
-        // TODO Auto-generated method stub
-        List<Medie> medii = new LinkedList<Medie>();
-        if(clasa.size() >= 0) {
-            for(Elev elev : clasa.keySet()) {
+        List<Medie> medii = new LinkedList<>(); //1
+        if(clasa.size() > 0) { //2
+            int j=0; //3
+            while(j<clasa.keySet().size()){ //4
                 Medie medie = new Medie();
+                Elev elev=(Elev)clasa.keySet().toArray()[j];
                 medie.setElev(elev);
-                int nrMaterii = 0;
-                double sumaMedii = 0;
-                double medieElev = 0;
-                for(String materie : clasa.get(elev).keySet()) {
+                int nrMaterii = 0; double sumaMedii = 0; double medieElev = 0;
+                int k=0;  //5
+                while(k<clasa.get(elev).keySet().size()){  //6
+                    String materie=(String)clasa.get(elev).keySet().toArray()[k];
                     nrMaterii++;
                     List<Double> noteElev = clasa.get(elev).get(materie);
                     int nrNote = noteElev.size();
                     int i = 0;
-                    double suma = 0;
-                    if(nrNote > 0) {
-                        while(i < nrNote) {
+                    double suma = 0;  //7
+                    if(nrNote > 0) {  //8
+                        while(i < nrNote) {  //9
                             double nota = noteElev.get(i);
                             suma += nota;
-                            i++;
+                            i++;   //10
                         }
-                        sumaMedii = sumaMedii + suma/i;
+                        sumaMedii = sumaMedii + suma/i;  //11
                     }
                     else
-                        sumaMedii+=1;
+                        sumaMedii+=1; //12
+                    k++;  //13
                 }
                 medieElev = sumaMedii / nrMaterii;
                 medie.setMedie(medieElev);
                 medii.add(medie);
+                j++; //14
             }
         }
         else
-            throw new ClasaException(Constants.emptyRepository);
-        return medii;
+            throw new ClasaException(Constants.emptyRepository);  //15
+        return medii; //16
     }
 
     public void afiseazaClasa() {
