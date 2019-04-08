@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="241874c3-ae26-4d67-868e-c92ac9d46682" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/note/repository/ClasaRepositoryMock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/note/repository/ClasaRepositoryMock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/note.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ttir2205MV/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ttir2205MV/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/note/repository/ClasaRepositoryMock$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/note/repository/ClasaRepositoryMock$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/note/repository/ClasaRepositoryMock$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/note/repository/ClasaRepositoryMock$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/note/repository/ClasaRepositoryMock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/note/repository/ClasaRepositoryMock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ttir2205MV/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ttir2205MV/AppTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -140,8 +135,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/ClasaRepositoryMock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="77" column="17" lean-forward="true" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
+            <state relative-caret-position="84">
+              <caret line="92" column="45" selection-start-line="92" selection-start-column="45" selection-end-line="92" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -371,7 +366,7 @@
     <property name="SearchEverywhereHistoryKey" value="9&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554752670733" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554752717563" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -464,7 +459,7 @@
       <workItem from="1554483523861" duration="11141000" />
       <workItem from="1554499122699" duration="1137000" />
       <workItem from="1554526365454" duration="54000" />
-      <workItem from="1554735220180" duration="11097000" />
+      <workItem from="1554735220180" duration="11731000" />
     </task>
     <task id="LOCAL-00001" summary="lab2">
       <created>1553512374662</created>
@@ -473,7 +468,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553512374662</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lab2">
+      <created>1554752699519</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554752699519</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -509,13 +511,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55244000" />
+    <option name="totallyTimeSpent" value="55878000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29425114" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29425114" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -534,7 +536,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.22749591" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
-      <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.16490166" />
+      <window_info active="true" anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.16490166" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -990,8 +992,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/ClasaRepositoryMock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="77" column="17" lean-forward="true" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
+        <state relative-caret-position="84">
+          <caret line="92" column="45" selection-start-line="92" selection-start-column="45" selection-end-line="92" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
