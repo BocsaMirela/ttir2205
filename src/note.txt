@@ -1,10 +1,10 @@
-1;Matematica;1
-1;Romana;1
+1;Matematica;10
+1;Romana;10
 2;Matematica;5
 2;Romana;5
-3;Matematica;2
-3;Romana;2
+3;Matematica;5
+3;Romana;10
 4;Romana;8
-5;Matematica;3
-5;Matematica;4
-5;Romana;3
+5;Matematica;5
+5;Matematica;5
+5;Romana;10

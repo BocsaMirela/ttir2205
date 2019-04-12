@@ -5,6 +5,7 @@ import static org.junit.Assert.assertTrue;
 
 import note.controller.NoteController;
 import note.errors.ClasaException;
+import note.model.Corigent;
 import note.model.Elev;
 import note.model.Medie;
 import note.model.Nota;
@@ -133,6 +134,25 @@ public class AppTest
             ex.printStackTrace();
         }
     }
+
+    @Test
+    public void testGetCorigentiValid(){
+        ClasaRepositoryMock clasaRepositoryMock=new ClasaRepositoryMock();
+        List<Elev> elevi = new ArrayList<>();
+        elevi.add(new Elev(1, "Victor"));
+        elevi.add(new Elev(2,"Titus"));
+        List<Nota> note = new ArrayList<>();
+        note.add(new Nota(1, "Matematica", 1));
+        note.add(new Nota(1, "Matematica", 1));
+        note.add(new Nota(2,"Matematica",3));
+        note.add(new Nota(2,"Romana",4));
+        clasaRepositoryMock.creazaClasa(elevi,note);
+        List<Corigent> corigenti=clasaRepositoryMock.getCorigenti();
+        assertEquals(corigenti.get(0).getNumeElev(),"Titus");
+        assertEquals(corigenti.get(1).getNumeElev(),"Victor");
+    }
+
+
 
 
 

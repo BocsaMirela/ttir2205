@@ -102,7 +102,7 @@ public class ClasaRepositoryMock implements ClasaRepository{
     @Override
     public List<Corigent> getCorigenti() {
         List<Corigent> corigenti = new ArrayList<Corigent>();
-        if(clasa.size() >= 0) {
+        if(clasa.size() > 0) {
             for(Elev elev : clasa.keySet()) {
                 Corigent corigent = new Corigent(elev.getNume(), 0);
                 for(String materie : clasa.get(elev).keySet()) {

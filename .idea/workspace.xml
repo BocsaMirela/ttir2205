@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="241874c3-ae26-4d67-868e-c92ac9d46682" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/ttir2205MV/TestIntegrareBigBang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ttir2205MV/TestareIntegrareTopDown.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/note/repository/ClasaRepositoryMock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/note/repository/ClasaRepositoryMock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/note/repository/EleviRepositoryMock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/note/repository/EleviRepositoryMock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/note.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ttir2205MV/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ttir2205MV/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/note/repository/ClasaRepositoryMock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/note/repository/ClasaRepositoryMock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/note/repository/EleviRepositoryMock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/note/repository/EleviRepositoryMock.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/ttir2205MV/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ttir2205MV/AppTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -13,58 +21,74 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/ttir2205$Whole_project.ic" NAME="Whole project Coverage Results" MODIFIED="1554744253393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/ttir2205$Whole_project.ic" NAME="Whole project Coverage Results" MODIFIED="1555099997566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>ttir2205MV.*</FILTER>
       <FILTER>note.repository.*</FILTER>
     </SUITE>
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="49" />
+    <option name="myAutoScrollToSource" value="true" />
+    <option name="myElementSize" value="35" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1380877668">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.3" value="2" />
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.47" value="1" />
-          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.48" value="2" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.58" value="1" />
           <entry key="project.open.time.59" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="JAVA/note" value="1" />
-          <entry key="java" value="55" />
+          <entry key="java" value="64" />
           <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="55" />
+          <entry key="JAVA" value="64" />
           <entry key="PLAIN_TEXT" value="10" />
           <entry key="UML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3138" />
-          <entry key="txt" value="101" />
+          <entry key="java" value="4110" />
+          <entry key="txt" value="111" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3138" />
-          <entry key="PLAIN_TEXT" value="101" />
+          <entry key="JAVA" value="4110" />
+          <entry key="PLAIN_TEXT" value="111" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -73,10 +97,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/note/controller/NoteController.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ttir2205MV/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+            <state relative-caret-position="749">
+              <caret line="141" column="9" lean-forward="true" selection-start-line="141" selection-start-column="9" selection-end-line="141" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/NoteRepositoryMock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ttir2205MV/TestIntegrareBigBang.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="121" column="21" selection-start-line="121" selection-start-column="21" selection-end-line="121" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ttir2205MV/TestareIntegrareTopDown.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1230">
+              <caret line="92" column="44" selection-start-line="92" selection-start-column="44" selection-end-line="92" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,39 +139,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ttir2205MV/AppTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/note/controller/NoteController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/note.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/note/model/Medie.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/note/main/StartApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="84">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1320#1321#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,17 +154,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/EleviRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+            <state relative-caret-position="84">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/ClasaRepositoryMock.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/EleviRepositoryMock.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="92" column="45" selection-start-line="92" selection-start-column="45" selection-end-line="92" selection-end-column="45" />
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/note/main/StartApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -147,8 +184,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/note/model/Nota.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="84">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#415#416#0" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
+                <element signature="e#574#575#0" expanded="true" />
+                <element signature="e#651#652#0" expanded="true" />
+                <element signature="e#681#682#0" expanded="true" />
+                <element signature="e#784#785#0" expanded="true" />
+                <element signature="e#822#823#0" expanded="true" />
+                <element signature="e#893#894#0" expanded="true" />
+                <element signature="e#920#921#0" expanded="true" />
+                <element signature="e#1011#1012#0" expanded="true" />
+                <element signature="e#1043#1044#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -156,17 +206,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/note/model/Elev.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/elevi.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            <state relative-caret-position="84">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -214,11 +260,13 @@
         <option value="$PROJECT_DIR$/src/main/java/note/repository/EleviRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/note/controller/NoteController.java" />
         <option value="$PROJECT_DIR$/src/main/java/note/main/StartApp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/note/repository/EleviRepositoryMock.java" />
         <option value="$PROJECT_DIR$/src/elevi.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/note/repository/ClasaRepositoryMock.java" />
         <option value="$PROJECT_DIR$/src/note.txt" />
         <option value="$PROJECT_DIR$/src/test/java/ttir2205MV/AppTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/note/repository/ClasaRepositoryMock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/note/repository/EleviRepositoryMock.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ttir2205MV/TestareIntegrareTopDown.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ttir2205MV/TestIntegrareBigBang.java" />
       </list>
     </option>
   </component>
@@ -246,8 +294,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -360,13 +406,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="9&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554753965519" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555112874478" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -387,7 +435,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Whole project">
+  <component name="RunManager" selected="JUnit.TestareIntegrareTopDown">
     <configuration name="StartApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="note.main.StartApp" />
       <module name="Lab01" />
@@ -398,6 +446,34 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIntegrareBigBang" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ttir2205MV.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ttir2205MV" />
+      <option name="MAIN_CLASS_NAME" value="ttir2205MV.TestIntegrareBigBang" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestareIntegrareTopDown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ttir2205MV.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ttir2205MV" />
+      <option name="MAIN_CLASS_NAME" value="ttir2205MV.TestareIntegrareTopDown" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -430,11 +506,15 @@
     <list>
       <item itemvalue="Application.StartApp" />
       <item itemvalue="JUnit.Whole project" />
+      <item itemvalue="JUnit.TestIntegrareBigBang" />
+      <item itemvalue="JUnit.TestareIntegrareTopDown" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Whole project" />
+        <item itemvalue="JUnit.TestareIntegrareTopDown" />
+        <item itemvalue="JUnit.TestIntegrareBigBang" />
         <item itemvalue="Application.StartApp" />
+        <item itemvalue="JUnit.Whole project" />
       </list>
     </recent_temporary>
   </component>
@@ -459,7 +539,10 @@
       <workItem from="1554483523861" duration="11141000" />
       <workItem from="1554499122699" duration="1137000" />
       <workItem from="1554526365454" duration="54000" />
-      <workItem from="1554735220180" duration="11731000" />
+      <workItem from="1554735220180" duration="12461000" />
+      <workItem from="1554804436743" duration="3929000" />
+      <workItem from="1554975836631" duration="435000" />
+      <workItem from="1555097117233" duration="10602000" />
     </task>
     <task id="LOCAL-00001" summary="lab2">
       <created>1553512374662</created>
@@ -475,49 +558,69 @@
       <option name="project" value="LOCAL" />
       <updated>1554752699519</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lab2">
+      <created>1554753779214</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554753779214</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lab2">
+      <created>1554753877491</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554753877491</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lab2">
+      <created>1554754013587</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1554754013587</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Whole_project - 2019.04.08 at 20h 00m 28s.xml">
-      <configuration name="Whole project" configurationId="JUnit" />
+    <history-entry file="TestIntegrareBigBang - 2019.04.13 at 01h 01m 45s.xml">
+      <configuration name="TestIntegrareBigBang" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Whole_project - 2019.04.08 at 20h 00m 33s.xml">
-      <configuration name="Whole project" configurationId="JUnit" />
+    <history-entry file="TestIntegrareBigBang - 2019.04.13 at 01h 04m 10s.xml">
+      <configuration name="TestIntegrareBigBang" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Whole_project - 2019.04.08 at 20h 02m 47s.xml">
-      <configuration name="Whole project" configurationId="JUnit" />
+    <history-entry file="TestIntegrareBigBang - 2019.04.13 at 01h 04m 16s.xml">
+      <configuration name="TestIntegrareBigBang" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Whole_project - 2019.04.08 at 20h 02m 49s.xml">
-      <configuration name="Whole project" configurationId="JUnit" />
+    <history-entry file="TestIntegrareBigBang - 2019.04.13 at 01h 06m 04s.xml">
+      <configuration name="TestIntegrareBigBang" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Whole_project - 2019.04.08 at 20h 02m 52s.xml">
-      <configuration name="Whole project" configurationId="JUnit" />
+    <history-entry file="TestIntegrareBigBang - 2019.04.13 at 01h 08m 35s.xml">
+      <configuration name="TestIntegrareBigBang" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Whole_project - 2019.04.08 at 20h 10m 03s.xml">
-      <configuration name="Whole project" configurationId="JUnit" />
+    <history-entry file="TestIntegrareBigBang - 2019.04.13 at 01h 11m 07s.xml">
+      <configuration name="TestIntegrareBigBang" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Whole_project - 2019.04.08 at 20h 10m 30s.xml">
-      <configuration name="Whole project" configurationId="JUnit" />
+    <history-entry file="TestIntegrareBigBang - 2019.04.13 at 01h 16m 30s.xml">
+      <configuration name="TestIntegrareBigBang" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Whole_project - 2019.04.08 at 20h 16m 50s.xml">
-      <configuration name="Whole project" configurationId="JUnit" />
+    <history-entry file="TestIntegrareBigBang - 2019.04.13 at 01h 29m 48s.xml">
+      <configuration name="TestIntegrareBigBang" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Whole_project - 2019.04.08 at 20h 17m 20s.xml">
-      <configuration name="Whole project" configurationId="JUnit" />
+    <history-entry file="TestIntegrareBigBang - 2019.04.13 at 01h 32m 56s.xml">
+      <configuration name="TestIntegrareBigBang" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Whole_project - 2019.04.08 at 20h 24m 26s.xml">
-      <configuration name="Whole project" configurationId="JUnit" />
+    <history-entry file="TestareIntegrareTopDown - 2019.04.13 at 01h 50m 51s.xml">
+      <configuration name="TestareIntegrareTopDown" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55878000" />
+    <option name="totallyTimeSpent" value="71574000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29425114" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30786687" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -526,8 +629,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22749591" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.502455" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3420622" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.10310966" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -536,16 +639,16 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.22749591" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
-      <window_info active="true" anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.16490166" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32980332" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.12254161" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -893,13 +996,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/NoteRepositoryMock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/ClasaRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -914,21 +1010,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/EleviRepositoryMock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/EleviRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/note/model/Elev.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/model/Medie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -942,58 +1024,118 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/note/main/StartApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/note/controller/NoteController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/note/model/Nota.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/note.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/note/model/Medie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ttir2205MV/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
+        <state relative-caret-position="68">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/ClasaRepositoryMock.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/main/StartApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/model/Elev.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="92" column="45" selection-start-line="92" selection-start-column="45" selection-end-line="92" selection-end-column="45" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/EleviRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/model/Nota.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#920#921#0" expanded="true" />
+            <element signature="e#1011#1012#0" expanded="true" />
+            <element signature="e#1043#1044#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/EleviRepositoryMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/controller/NoteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1320#1321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ttir2205MV/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="749">
+          <caret line="141" column="9" lean-forward="true" selection-start-line="141" selection-start-column="9" selection-end-line="141" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/NoteRepositoryMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ttir2205MV/TestIntegrareBigBang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="121" column="21" selection-start-line="121" selection-start-column="21" selection-end-line="121" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ttir2205MV/TestareIntegrareTopDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1230">
+          <caret line="92" column="44" selection-start-line="92" selection-start-column="44" selection-end-line="92" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

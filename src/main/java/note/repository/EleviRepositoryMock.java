@@ -35,7 +35,7 @@ public class EleviRepositoryMock implements EleviRepository{
 
     @Override
     public void addElev(Elev e) throws ClasaException {
-        if(validareElev(e))
+        if(!validareElev(e))
             return;
         elevi.add(e);
     }
